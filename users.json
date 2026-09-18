@@ -38,7 +38,19 @@
   "7870416755": {
     "username": "Dev_Amr_Alsabei",
     "first_name": "Dev.Amr ALsabai",
-    "status": "new",
+    "status": "pending",
     "first_seen": "2026-09-18T02:55:33.867373"
+  },
+  "8354646779": {
+    "username": "greykn1",
+    "first_name": "Ahmkn",
+    "status": "pending",
+    "first_seen": "2026-09-18T03:00:12.160531"
+  },
+  "1977910931": {
+    "username": null,
+    "first_name": "Akram bellil",
+    "status": "pending",
+    "first_seen": "2026-09-18T03:00:38.105391"
   }
 }
