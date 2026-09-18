@@ -52,5 +52,11 @@
     "first_name": "Akram bellil",
     "status": "approved",
     "first_seen": "2026-09-18T03:00:38.105391"
+  },
+  "8403224589": {
+    "username": null,
+    "first_name": "Hamza Eldeeb",
+    "status": "new",
+    "first_seen": "2026-09-18T03:36:04.583536"
   }
 }
