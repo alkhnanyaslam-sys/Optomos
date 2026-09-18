@@ -14,7 +14,19 @@
   "5926991245": {
     "username": "HSN22uu",
     "first_name": "Hassan",
-    "status": "pending",
+    "status": "approved",
     "first_seen": "2026-09-18T02:19:32.478803"
+  },
+  "8630463303": {
+    "username": "divil1_1",
+    "first_name": "غيبوبة",
+    "status": "approved",
+    "first_seen": "2026-09-18T02:23:03.198728"
+  },
+  "8166888554": {
+    "username": null,
+    "first_name": "🍃🥷🏻",
+    "status": "new",
+    "first_seen": "2026-09-18T02:23:40.596563"
   }
 }
