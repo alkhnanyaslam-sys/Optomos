@@ -98,7 +98,7 @@
   "6021834252": {
     "username": null,
     "first_name": "يوسف",
-    "status": "pending",
+    "status": "approved",
     "first_seen": "2026-09-18T06:26:57.207727"
   },
   "8623371145": {
@@ -116,7 +116,7 @@
   "8908840615": {
     "username": "Abdullah_Adly7",
     "first_name": "𝐀𝐛𝐝𝐮𝐥𝐥𝐚𝐡",
-    "status": "new",
+    "status": "approved",
     "first_seen": "2026-09-18T10:49:14.848602"
   }
 }
