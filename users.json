@@ -56,7 +56,13 @@
   "8403224589": {
     "username": null,
     "first_name": "Hamza Eldeeb",
-    "status": "new",
+    "status": "pending",
     "first_seen": "2026-09-18T03:36:04.583536"
+  },
+  "8852722627": {
+    "username": null,
+    "first_name": "Ahmed",
+    "status": "new",
+    "first_seen": "2026-09-18T03:38:34.622965"
   }
 }
